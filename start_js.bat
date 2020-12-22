@@ -1,0 +1,1 @@
+slimerjs\slimerjs -P twitchAFK twitchAFK.js %1

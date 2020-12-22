@@ -1,0 +1,15 @@
+1. Сначала настрой js скрипт. Читай README.md
+2. В main.py:
+MONITORING_GAME = '<Название игры для мониторинга>'
+twitch_dev_client = 'Клиент ID. Создается через dev twitch'
+twitch_dev_token  = 'Токент. Создается через dev twitch'
+3. Настройки спама в чат, обновлений и тд, настраиваются в twitchAFKConfig.js
+
+
+после установки python 3.6, у вас не будет нужных библиотек.
+
+нужно установить:
+в cmd:
+pip install twitch-python
+pip install beautifulsoup4
+
