@@ -176,7 +176,7 @@ if __name__ == '__main__':
     check_channels = get_channels()
     while True:
         try:
-            print("Start BOT by Peter Emelin")
+            print("Start BOT by natrix5369")
             for num, i in enumerate(check_channels, 1):
                 print("\nStart stream: {} ({}/{})".format(i, num, len(check_channels)))
                 status_stream = stream_is_online(i)
